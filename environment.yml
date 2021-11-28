@@ -1,4 +1,4 @@
-name: nftport-backend-task
+name: nftport_task
 dependencies:
   - python=3.9
   - pip=21.0.1
